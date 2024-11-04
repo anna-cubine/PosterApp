@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#41D3BD</color>
+    <color name="colorAccent">#FDA14F</color>
+    <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorRatingActive">#FDA14F</color>
+    <color name="colorRatingInactive">#C9C9D1</color>
+    <color name="colorBackground">#EEEEEE</color>
+
+</resources>
